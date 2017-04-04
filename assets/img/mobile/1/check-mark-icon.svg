@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="47px" viewBox="0 0 58 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>check-mark-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Quote-Runner---Sprite-Sheet" transform="translate(-421.000000, -34.000000)" fill="#FFFFFF">
+            <path d="M440.878921,34.491014 L436.284307,40.4178034 C433.043504,44.5997832 427.073442,51.2560236 421.676741,55.6110934 L428.057892,63.5160551 C431.933873,60.3865249 435.931945,56.3621807 439.250019,52.6685622 L439.953198,51.8664752 L440.53274,52.6098353 C448.544338,62.4713329 461.846001,73.8535505 473.263764,80.451064 L478.346739,71.6559248 C465.313984,64.1234158 449.907422,49.8481214 444.679175,40.9540735 L440.878921,34.491014 Z" id="check-mark-icon" transform="translate(450.011740, 57.471039) scale(-1, 1) rotate(181.000000) translate(-450.011740, -57.471039) "></path>
+        </g>
+    </g>
+</svg>
